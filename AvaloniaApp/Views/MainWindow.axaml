@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:vm="using:AvaloniaApp.ViewModels"
+        mc:Ignorable="d"
+        x:Class="AvaloniaApp.Views.MainWindow"
+		x:DataType="vm:MainWindowViewModel"
+		Width="400" Height="300"
+        Title="Simple Form">
+	<Window.DataContext>
+		<vm:MainWindowViewModel />
+	</Window.DataContext>
+	<StackPanel Margin="20" Spacing="10">
+		<TextBlock Text="X:" />
+		<TextBox Text="{Binding X, Mode=TwoWay}" Margin="0,5,0,10"/>
+		<TextBlock Text="Y:" />
+		<TextBox Text="{Binding Y, Mode=TwoWay}" Margin="0,5,0,10"/>
+		<TextBlock Text="Z:" />
+		<TextBox Text="{Binding Z, Mode=TwoWay}" Margin="0,5,0,20"/>
+		<Button Content="Submit" Command="{Binding SubmitCommand}" />
+	</StackPanel>
+</Window>
