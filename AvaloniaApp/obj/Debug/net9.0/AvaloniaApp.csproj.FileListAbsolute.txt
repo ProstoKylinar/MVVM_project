@@ -1,0 +1,134 @@
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.csproj.AssemblyReference.cache
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/resources
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.AssemblyInfoInputs.cache
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.AssemblyInfo.cs
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/AvaloniaApp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/AvaloniaApp.pdb
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/refint/Avalonia/AvaloniaApp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.exe
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.deps.json
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.runtimeconfig.json
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.pdb
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Base.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Dialogs.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Markup.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Metal.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.MicroCom.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.OpenGL.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Vulkan.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Desktop.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Native.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Skia.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Win32.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.X11.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/CommunityToolkit.Mvvm.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/HarfBuzzSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/MicroCom.Runtime.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/SkiaSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia.466377FB.Up2Date
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.genruntimeconfig.cache
+C:/Users/Gamercomp.ru/Documents/ВКР/Project BHS/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/ref/AvaloniaApp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.deps.json
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.runtimeconfig.json
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/AvaloniaApp.pdb
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Base.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Markup.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Metal.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Desktop.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Native.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Skia.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.Win32.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Avalonia.X11.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/CommunityToolkit.Mvvm.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/HarfBuzzSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/MicroCom.Runtime.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/SkiaSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.csproj.AssemblyReference.cache
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/resources
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.AssemblyInfoInputs.cache
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.AssemblyInfo.cs
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/AvaloniaApp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia/AvaloniaApp.pdb
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/refint/Avalonia/AvaloniaApp.dll
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/Avalonia.466377FB.Up2Date
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.genruntimeconfig.cache
+/Users/dmitriydemesko/Downloads/First real task/Subtask 01.02/AvaloniaApp/obj/Debug/net9.0/ref/AvaloniaApp.dll
